@@ -1,3 +1,4 @@
+```
 sequenceDiagram
     participant browser
     participant server
@@ -34,3 +35,4 @@ sequenceDiagram
     activate server
     server-->>browser: 201 Created 'message: "note created"'
     deactivate server
+```

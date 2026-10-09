@@ -1,3 +1,4 @@
+```
 sequenceDiagram
     participant browser
     participant server
@@ -30,3 +31,4 @@ sequenceDiagram
     activate server
     server-->>browser: 200 OK data.json [{ "content": "67", "date": "2026-10-9" }, ... ]
     deactivate server
+```

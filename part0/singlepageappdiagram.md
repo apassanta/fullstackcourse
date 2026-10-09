@@ -1,3 +1,4 @@
+```
 sequenceDiagram
     participant browser
     participant server
@@ -25,3 +26,4 @@ sequenceDiagram
 
     Note over browser, server: Basically same as the older type of application on initial open
     Note over browser, server: it's on the interactions that are different.
+```
